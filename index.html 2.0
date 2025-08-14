@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ZiMere Nelson's Top Picks & Recommendations</title>
+  <meta name="description" content="Curated recommendations by ZiMere Nelson. As an Amazon Associate I earn from qualifying purchases." />
+  <meta name="robots" content="index,follow" />
+  <link rel="icon" href="favicon.ico" />
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f8f9fa; color: #333; }
+    header, footer { background: #222; color: white; text-align: center; padding: 20px; }
+    main { max-width: 1000px; margin: auto; padding: 20px; }
+    h1, h2 { color: #222; }
+    .disclosure { background: #fff3cd; border: 1px solid #ffeeba; padding: 10px; border-radius: 5px; margin-bottom: 20px; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
+    .card { background: white; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.05); display: flex; flex-direction: column; }
+    .card img { width: 100%; height: auto; }
+    .card-content { padding: 15px; flex: 1; display: flex; flex-direction: column; }
+    .card h3 { margin: 0 0 10px; }
+    .card p { flex: 1; }
+    .btn { background: #ff9900; color: white; padding: 10px; text-align: center; text-decoration: none; border-radius: 5px; font-weight: bold; }
+    .btn:hover { background: #e68a00; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>ZiMere Nelson's Top Picks</h1>
+  <p>Curated recommendations and honest reviews</p>
+</header>
+
+<main>
+  <div class="disclosure">
+    <strong>Disclosure:</strong> As an Amazon Associate I earn from qualifying purchases.
+  </div>
+
+  <h2>Featured Products</h2>
+  <div class="grid">
+
+    <!-- Product 1 -->
+    <div class="card">
+      <img src="https://m.media-amazon.com/images/I/61djR7dr+vL._AC_SL1500_.jpg" alt="Wireless Earbuds">
+      <div class="card-content">
+        <h3>Wireless Bluetooth Earbuds</h3>
+        <p>High-quality sound, long battery life, and a sleek design m
